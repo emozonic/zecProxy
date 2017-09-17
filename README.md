@@ -23,8 +23,8 @@ Originally developed for Flypool http://zcash.flypool.org/
 
 #Requirements
 zecProxy is build with nodeJS. The requirements for running zecProxy are:
-* nodeJS
-* npm
+* nodeJS - apt-get install npm
+* npm - apt-get install nodejs-legacy
 * linux
 
 #Installation and Start

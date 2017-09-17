@@ -1,7 +1,7 @@
 {
-	"wallet": "t1JCTyzYgqufiATXM2HjfiobPKnNZxpXX5a.proxy",
+	"wallet": "t1XVBSNR7YdtBQr3apzAfQ5Jt4MedgdVST9.stratumproxy",
 	"pool" : {
-		"host" : "us1-zcash.flypool.org",
+		"host" : "eu1-zcash.flypool.org",
 		"port" : 3333
  	}
 }
